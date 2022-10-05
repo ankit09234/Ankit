@@ -31,7 +31,7 @@ double z=m*(t+m)*((t*(t+1))/2)*(t/100)*(1/12);
 System.out.println(z);
 break;
 default:
-System.out.println("Wrong Choice");
+System.out.println("WRONG CHOICE");
 }
 }
 }
