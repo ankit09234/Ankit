@@ -27,7 +27,7 @@ a[j]=x;
 }
 }
 }
-System.out.println("The alphabets in the ascending order are");
+System.out.println("The alphabets in the ascending order are : ");
 for(i=0;i<p;i++)
 s=s+a[i];
 System.out.println(s);
