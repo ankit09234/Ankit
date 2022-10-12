@@ -14,6 +14,7 @@ p=a*b; //Product of two digit
 m=s+p;
 if(m==n)
 System.out.println("The number is special : ");
+System.out.println("HELLO");
 else
 System.out.println("The number is not special : ");
 }
