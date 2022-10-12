@@ -9,7 +9,7 @@ int i,j,x;
 int a[]=new int[5];
 for(i=0;i<5;i++)
 {
-System.out.println("Enter the number in the cells");
+System.out.println("Enter the number in the cells : ");
 a[i]=Integer.parseInt(in.readLine());
 }
 for(i=0;i<4;i++)
@@ -24,7 +24,7 @@ a[j+1]=x;
 }
 }
 }
-System.out.println("The number in descending order are");
+System.out.println("The number in descending order are : ");
 for(i=0;i<5;i++)
 System.out.println(a[i]);
 }
