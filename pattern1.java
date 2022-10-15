@@ -7,7 +7,7 @@ InputStreamReader read=new InputStreamReader(System.in);
 BufferedReader in=new BufferedReader(read);
 int a,b;
 String n;
-System.out.println("Enter the word to print the pattern");
+System.out.println("Enter the word to print the pattern :");
 n=in.readLine();
 b=n.length();
 for(a=0;a<=b;a++)
