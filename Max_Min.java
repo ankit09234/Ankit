@@ -9,7 +9,7 @@ int i,max,min;
 int a[]=new int[10];
 for(i=0;i<10;i++)
 {
-System.out.println("Enter the number in the cells");
+System.out.println("Enter the number in the cells:");
 a[i]=Integer.parseInt(in.readLine());
 }
 max=a[0];min=a[0];
