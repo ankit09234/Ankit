@@ -18,8 +18,10 @@ for(j=0;j<(4-i);j++)
 {
 if(a[j]<a[j+1]);
 {
+   System.out.println("HELLO WORLD");
 x=a[j];
 a[j]=a[j+1];
+  System.out.println("hello ");
 a[j+1]=x;
 }
 }
