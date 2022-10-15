@@ -21,7 +21,7 @@ double am=a*(Math.pow(1+b/100,c));
 System.out.println(am);
 break;
 case 2:
-System.out.println("Enter Monthly Installment"); 
+System.out.println("Enter Monthly Installments"); 
 double m=in.nextInt();
 System.out.println("Enter Rate");
 double r=in.nextInt();
