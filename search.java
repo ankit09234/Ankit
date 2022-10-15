@@ -13,7 +13,7 @@ for(i=0;i<10;i++)
 System.out.println("Enter the number in the cell");
 a[i]=Integer.parseInt(in.readLine());
 }
-System.out.println("Enter the number to be searched : ");
+System.out.println("Enter the number to be searcheds are : ");
   Sysyem.out.println();
 n=Integer.parseInt(in.readLine());
 for(i=0;i<10;i++)
