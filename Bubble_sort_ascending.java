@@ -20,6 +20,7 @@ if(a[j]>a[j+1])
 {
 x=a[j];
 a[j]=a[j+1];
+  System.out.println("hello ");
 a[j+1]=x;
 }
 }
