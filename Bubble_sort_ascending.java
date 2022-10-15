@@ -27,5 +27,6 @@ a[j+1]=x;
 System.out.println("The number in ascending order are");
 for(i=0;i<5;i++)
 System.out.println(a[i]);
+   System.out.println("HELLO WORLD");
 }
 }
