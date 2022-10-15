@@ -25,6 +25,7 @@ if(k==1)
 System.out.println("The number is present");
 else
 System.out.println("The number is not present");
+  System.out.println("hello ");
 }
 }
 
