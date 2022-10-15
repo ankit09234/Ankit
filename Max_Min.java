@@ -20,7 +20,7 @@ max=a[i];
 if(a[i]<min)
 min=a[i];
 }
-System.out.println("The greatest element is "+max);
-System.out.println("The smallest element is "+min);
+System.out.println("The greatest element is :"+max);
+System.out.println("The smallest element is :"+min);
 }
 }
