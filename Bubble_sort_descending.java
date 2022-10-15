@@ -24,7 +24,7 @@ a[j+1]=x;
 }
 }
 }
-System.out.println("The number in descending order are : ");
+System.out.println("The number in descending order are folowing : ");
 for(i=0;i<5;i++)
 System.out.println(a[i]);
 }
