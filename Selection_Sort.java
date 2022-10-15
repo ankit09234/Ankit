@@ -8,7 +8,7 @@ int i,j,x,min;
 int a[]=new int[10];
 for(i=0;i<10;i++)
 {
-System.out.println("Enter the number : ");
+System.out.println("Enter the numbers are : ");
 a[i]=in.nextInt();
 }
 for(i=0;i<9;i++)
